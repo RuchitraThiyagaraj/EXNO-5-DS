@@ -138,18 +138,17 @@ plt.axis('equal')
 plt.show()
 ~~~
 ## OUTPUT
-![324169994-d9b8c0ff-c58b-4fd2-a5df-2891fd661ba3](https://github.com/RuchitraThiyagaraj/EXNO-5-DS/assets/154776996/927fd6ff-eb92-48e8-a099-d6a07a0db480)
-![324169994-d9b8c0ff-c58b-4fd2-a5df-2891fd661ba3](https://github.com/RuchitraThiyagaraj/EXNO-5-DS/as![324170012-a2dace33-d634-4af2-93b4-ba5f3be8e42c]
-![324170012-a2dace33-d634-4af2-93b4-ba5f3be8e42c](https://github.com/RuchitraThiyagaraj/EXNO-5-DS/assets/154776996/d51c018f-58f1-48e9-b0d2-9eb623f132f5)
-![324170036-24decf63-d356-4a26-84b9-8ca69881a488](https://github.com/RuchitraThiyagaraj/EXNO-5-DS/asset![324170036-24decf63-d356-4a26-84b9-8ca69881a488]
-![324170036-24decf63-d356-4a26-84b9-8ca69881a488](https://github.com/RuchitraThiyagaraj/EXNO-5-DS/assets/154776996/f0f8d7c3-b189-416e-b69b-8d1345e729e6)
-![324170059-a80c07d5-830c-42fd-9e42-54cb7753c243](https://github.com/RuchitraThiyagaraj/EXNO-5-DS/assets/154776996/6dd24557-a5b3-433c-b7fa-c18ea6dc1f9b)
-![324170059-a80c07d5-830c-42fd-9e42-54cb7753c243](https://github.com/RuchitraThiyagaraj/EXNO-5-DS/assets/154776996/5f2a340a-2289-48fd-a58f-ea875ac1fb26)
-![324170072-b5586886-25e8-446e-84e9-772c5ce1e931](https://github.com/RuchitraThiyagaraj/EXNO-5-DS/assets/154776996/139937b2-f3f9-429a-a129-52c5f4dff913)
-![324170088-9f994cbd-ab39-40bb-ad4a-313add274291](https://github.com/RuchitraThiyagaraj/EXNO-5-DS/assets/154776996/99ac8a19-71c6-422f-b8b1-6c6a755cef3e)
-![324170096-fe931589-a814-4ac6-aa08-7af6db44235a](https://github.com/RuchitraThiyagaraj/EXNO-5-DS/assets/154776996/423d3c3b-9da6-4cb9-9400-6acad92ad65b)
-![324170096-fe931589-a814-4ac6-aa08-7af6db44235a](https://github.com/RuchitraThiyagaraj/EXNO-5-DS/assets/154776996/02405af6-83ae-49d0-a23b-4dffb9b8311b)
-![324170110-6f6deb40-eae7-4921-bcca-35803663a307](https://github.com/RuchitraThiyagaraj/EXNO-5-DS/assets/154776996/3a3dca49-19cf-4616-9832-9e94853ca3f8)
+![324169994-d9b8c0ff-c58b-4fd2-a5df-2891fd661ba3](https://github.com/RuchitraThiyagaraj/EXNO-5-DS/assets/154776996/d78d0ffa-b179-4686-9cff-12ad369753d1)
+![324169994-d9b8c0ff-c58b-4fd2-a5df-2891fd661ba3](https://github.com/RuchitraThiyagaraj/EXNO-5-DS/assets/154776996/605ec15d-023a-4902-9f59-c89fb3f72ea6)
+![324170012-a2dace33-d634-4af2-93b4-ba5f3be8e42c](https://github.com/RuchitraThiyagaraj/EXNO-5-DS/assets/154776996/946ba74c-495a-4fa8-a0a8-08e86be71f2c)
+![324170036-24decf63-d356-4a26-84b9-8ca69881a488](https://github.com/RuchitraThiyagaraj/EXNO-5-DS/assets/154776996/96f3aa1a-3d0d-4bce-b9bb-15b2650b954e)
+![324170059-a80c07d5-830c-42fd-9e42-54cb7753c243](https://github.com/RuchitraThiyagaraj/EXNO-5-DS/assets/154776996/0ae68f33-69af-4c7e-81e2-0e8c095e146b)
+![324170059-a80c07d5-830c-42fd-9e42-54cb7753c243](https://github.com/RuchitraThiyagaraj/EXNO-5-DS/assets/154776996/000e7304-f785-4e40-bc4e-29989d24dbdd)
+![324170072-b5586886-25e8-446e-84e9-772c5ce1e931](https://github.com/RuchitraThiyagaraj/EXNO-5-DS/assets/154776996/de929f2b-2e41-48d4-b8c2-2fc2176fa84b)
+![324170088-9f994cbd-ab39-40bb-ad4a-313add274291](https://github.com/RuchitraThiyagaraj/EXNO-5-DS/assets/154776996/02574c5b-6412-456e-8da0-3f1a1bf8b6f3)
+![324170088-9f994cbd-ab39-40bb-ad4a-313add274291](https://github.com/RuchitraThiyagaraj/EXNO-5-DS/assets/154776996/4ddd5af1-670b-434a-88ea-cb8b4dd50a4a)
+![324170096-fe931589-a814-4ac6-aa08-7af6db44235a](https://github.com/RuchitraThiyagaraj/EXNO-5-DS/assets/154776996/5ee036e8-4944-4186-8473-6631ef295294)
+![324170110-6f6deb40-eae7-4921-bcca-35803663a307](https://github.com/RuchitraThiyagaraj/EXNO-5-DS/assets/154776996/26bb1caf-328a-4af1-aed6-a425c339f217)
 
 
 # Result:
